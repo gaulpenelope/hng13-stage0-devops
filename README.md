@@ -13,7 +13,8 @@ The webpage displays a personalized welcome message along with deployment detail
 ---
 
 ## 🌐 Server Details
-**Server IP/Domain:** [http://phpstack-1536924-5933150.cloudwaysapps.com](http://phpstack-1536924-5933150.cloudwaysapps.com)  
+**Server IP:** 64.225.9.54  
+**Server Domain:** [http://phpstack-1536924-5933150.cloudwaysapps.com](http://phpstack-1536924-5933150.cloudwaysapps.com)  
 **Deployed On:** Cloudways  
 **Deployed:** 17th October 2025  
 
