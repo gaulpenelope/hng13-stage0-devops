@@ -14,7 +14,7 @@ The webpage displays a personalized welcome message along with deployment detail
 
 ## 🌐 Server Details
 **Server IP:** 64.225.9.54  
-**Server Domain:** [http://phpstack-1536924-5933150.cloudwaysapps.com](http://phpstack-1536924-5933150.cloudwaysapps.com)  
+**Server Domain:** [http://gaulpenelope.ddnsfree.com/](http://gaulpenelope.ddnsfree.com/)  
 **Deployed On:** Cloudways  
 **Deployed:** 17th October 2025  
 
@@ -42,7 +42,7 @@ The webpage displays a personalized welcome message along with deployment detail
 
 ## ✅ Verification
 The site is live and accessible publicly.  
-Visit: [http://phpstack-1536924-5933150.cloudwaysapps.com](http://phpstack-1536924-5933150.cloudwaysapps.com)
+Visit: [http://gaulpenelope.ddnsfree.com/](http://gaulpenelope.ddnsfree.com/)
 
 ---
 
